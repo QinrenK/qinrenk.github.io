@@ -268,17 +268,17 @@ background: #f0db4f;
 }
 
 .bar .progline.SQL span {
-width: 60%;
+width: 65%;
 background: #f89820;
 }
 
 .bar .progline.HC span {
-width: 60%;
+width: 65%;
 background: #e44d26;
 }
 
 .bar .progline.ML span {
-width: 50%;
+width: 65%;
 background: #007acc;
 }
 
@@ -341,7 +341,7 @@ content: '3 Years';
 }
 
 .bar .progline.ML span:after {
-content: '2 Years';
+content: '3 Years';
 }
 
 .bar .progline.VBA span:after {
